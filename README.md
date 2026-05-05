@@ -105,9 +105,11 @@ player = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharon-py&show_icons=true&hide_border=true&title_color=7B6D8D&icon_color=F6BD60&text_color=3B2F4A&bg_color=FFF7FB" />
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharon-py&show_icons=true&hide_border=true&title_color=7B6D8D&icon_color=F6BD60&text_color=3B2F4A&bg_color=FFF7FB)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-py&layout=compact&hide_border=true&title_color=7B6D8D&text_color=3B2F4A&bg_color=FFF7FB" />
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-py&layout=compact&hide_border=true&title_color=7B6D8D&text_color=3B2F4A&bg_color=FFF7FB)
 
 </div>
 
