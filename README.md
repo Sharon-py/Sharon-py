@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&center=true&vCenter=true&width=850&color=7B6D8D&lines=Data+Scientist+%7C+Machine+Learning;Building+clean+and+useful+data+projects;Analytics+%E2%80%A2+NLP+%E2%80%A2+Applied+AI;From+messy+data+to+clear+insights+%E2%9C%A8" alt="Typing SVG" />
 
-<br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon%20Chemmama-D7C0F2?style=for-the-badge&logo=linkedin&logoColor=3B2F4A)](https://www.linkedin.com/in/sharonchemmama)
 [![Email](https://img.shields.io/badge/Email-chemmamasharon%40gmail.com-FADADD?style=for-the-badge&logo=gmail&logoColor=3B2F4A)](mailto:chemmamasharon@gmail.com)
 
