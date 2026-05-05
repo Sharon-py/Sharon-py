@@ -131,7 +131,7 @@ Traveling, exploring new places and ideas 🌷
 
 | Project | Description | Tools |
 |---|---|---|
-| MDS diagnostic support | Research-oriented ML project using gene expression data and feature selection. | Python, scikit-learn |
+| [MDS diagnostic support](https://github.com/Sharon-py/mds-diagnostic-ml) | Research-oriented machine learning project using gene expression data, feature selection and classification for MDS diagnostic support. | Python, scikit-learn |
 | Scientific notebooks | Exploratory projects around scientific datasets and interpretable modeling. | Python, Jupyter |
 
 ---
