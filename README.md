@@ -101,18 +101,13 @@ player = {
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub activity
 
 <div align="center">
 
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharon-py&show_icons=true&hide_border=true&title_color=7B6D8D&icon_color=F6BD60&text_color=3B2F4A&bg_color=FFF7FB)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-py&layout=compact&hide_border=true&title_color=7B6D8D&text_color=3B2F4A&bg_color=FFF7FB)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharon-py&theme=vue" />
 
 </div>
-
 ---
 
 ## 🌱 Bonus level
