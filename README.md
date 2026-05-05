@@ -22,16 +22,47 @@ I enjoy building projects that are useful, clean and easy to understand — from
 
 I'm interested in applied AI, machine learning, analytics, NLP, and projects that connect data with real-world use cases.
 
-```python
-player = {
-    "name": "Sharon",
-    "class": "Data Scientist",
-    "skills": ["Machine Learning", "Data Analysis", "NLP", "Visualization"],
-    "tools": ["Python", "SQL", "R", "Git", "Docker", "Jupyter"],
-    "current_quest": "building a clean and meaningful data portfolio",
-    "mood": "curious, practical, always learning ✨"
-}
-```
+---
+
+## 👾 Player profile
+
+<div align="center">
+
+<table width="100%" style="max-width:900px;">
+<tr>
+
+<td width="65%">
+
+**Sharon**  
+*Data Scientist*
+
+<br>
+
+Curious and always eager to learn  
+Interested in many topics, especially around data and AI  
+Enjoy coding, building and experimenting with ideas  
+Positive, adaptable and easy to work with  
+
+<br>
+
+### 🎯 **Main quest**
+Finding a data science role  
+
+### 🧭 **Side quest**
+Traveling, exploring new places and ideas 🌷
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/Sharon-py.png" width="200" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -39,15 +70,40 @@ player = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-F6BD60?style=for-the-badge&logo=python&logoColor=3B2F4A)
-![SQL](https://img.shields.io/badge/SQL-B8E0D2?style=for-the-badge&logo=postgresql&logoColor=3B2F4A)
-![R](https://img.shields.io/badge/R-D7C0F2?style=for-the-badge&logo=r&logoColor=3B2F4A)
-![Scala](https://img.shields.io/badge/Scala-F4A7B9?style=for-the-badge&logo=scala&logoColor=3B2F4A)
-![Jupyter](https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=3B2F4A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-B8E0D2?style=for-the-badge&logo=scikitlearn&logoColor=3B2F4A)
-![Docker](https://img.shields.io/badge/Docker-D7C0F2?style=for-the-badge&logo=docker&logoColor=3B2F4A)
-![Git](https://img.shields.io/badge/Git-F4A7B9?style=for-the-badge&logo=git&logoColor=3B2F4A)
+### 🎒 Main backpack
 
+![Python](https://img.shields.io/badge/Python-F6BD60?style=for-the-badge&logo=python&logoColor=3B2F4A&labelColor=FFE8B5)
+![SQL](https://img.shields.io/badge/SQL-B8E0D2?style=for-the-badge&logo=postgresql&logoColor=3B2F4A&labelColor=E3F5EC)
+![R](https://img.shields.io/badge/R-D7C0F2?style=for-the-badge&logo=r&logoColor=3B2F4A&labelColor=F0E4FF)
+![Scala](https://img.shields.io/badge/Scala-F4A7B9?style=for-the-badge&logo=scala&logoColor=3B2F4A&labelColor=FFE1EA)
+<br>
+
+### ⚔️ Skills unlocked
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-D7C0F2?style=for-the-badge&logo=scikitlearn&logoColor=3B2F4A&labelColor=F0E4FF)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FADADD?style=for-the-badge&logo=tensorflow&logoColor=3B2F4A&labelColor=FFF0F4)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-B8E0D2?style=for-the-badge&logo=pandas&logoColor=3B2F4A&labelColor=E3F5EC)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-F6BD60?style=for-the-badge&logo=target&logoColor=3B2F4A&labelColor=FFE8B5)
+![NLP](https://img.shields.io/badge/NLP-FADADD?style=for-the-badge&logo=googledocs&logoColor=3B2F4A&labelColor=FFF0F4)
+![RAG](https://img.shields.io/badge/RAG-D7C0F2?style=for-the-badge&logo=openai&logoColor=3B2F4A&labelColor=F0E4FF)
+![LLM](https://img.shields.io/badge/LLM-B8E0D2?style=for-the-badge&logo=openai&logoColor=3B2F4A&labelColor=E3F5EC)
+![Time Series](https://img.shields.io/badge/Time%20Series-F4A7B9?style=for-the-badge&logo=chartdotjs&logoColor=3B2F4A&labelColor=FFE1EA)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-B8E0D2?style=for-the-badge&logo=opencv&logoColor=3B2F4A&labelColor=E3F5EC)
+<br>
+
+### 🧪 Tools & potions
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=3B2F4A&labelColor=FFE8B5)
+![Docker](https://img.shields.io/badge/Docker-D7C0F2?style=for-the-badge&logo=docker&logoColor=3B2F4A&labelColor=F0E4FF)
+![Git](https://img.shields.io/badge/Git-F4A7B9?style=for-the-badge&logo=git&logoColor=3B2F4A&labelColor=FFE1EA)
+![Airflow](https://img.shields.io/badge/Airflow-B8E0D2?style=for-the-badge&logo=apacheairflow&logoColor=3B2F4A&labelColor=E3F5EC)
+![Spark](https://img.shields.io/badge/Spark-F6BD60?style=for-the-badge&logo=apachespark&logoColor=3B2F4A&labelColor=FFE8B5)
+![APIs](https://img.shields.io/badge/APIs-FADADD?style=for-the-badge&logo=fastapi&logoColor=3B2F4A&labelColor=FFF0F4)
+![Power BI](https://img.shields.io/badge/Power%20BI-F6BD60?style=for-the-badge&logo=powerbi&logoColor=3B2F4A&labelColor=FFE8B5)
+![Tableau](https://img.shields.io/badge/Tableau-D7C0F2?style=for-the-badge&logo=tableau&logoColor=3B2F4A&labelColor=F0E4FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-FADADD?style=for-the-badge&logo=streamlit&logoColor=3B2F4A&labelColor=FFF0F4)
+![Kibana](https://img.shields.io/badge/Kibana-CDB4DB?style=for-the-badge&logo=elastic&logoColor=3B2F4A&labelColor=F2E7FA)
+![Azure](https://img.shields.io/badge/Azure-B8E0D2?style=for-the-badge&logo=microsoftazure&logoColor=3B2F4A&labelColor=E3F5EC)
 </div>
 
 ---
@@ -93,12 +149,11 @@ player = {
 
 ## 🎮 Current quests
 
-- Clean and document my GitHub projects
-- Build a clear data science portfolio
-- Improve my ML engineering workflow
-- Write reproducible notebooks and better READMEs
-- Explore applied AI projects with concrete use cases
-
+- Find my first Data Scientist / Machine Learning role
+- Finish my research-style project on MDS
+- Build a first AI Agent project
+- Explore a lie detector project using data, signals or ML
+- Keep cleaning and documenting my GitHub portfolio
 ---
 
 ## 📈 GitHub activity
