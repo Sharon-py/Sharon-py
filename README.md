@@ -140,9 +140,11 @@ Traveling, exploring new places and ideas 🌷
 
 | Project | Description | Tools |
 |---|---|---|
-| [Aqua](https://github.com/Sharon-py/Aqua) | Cute pixel-art desktop hydration reminder that gamifies water intake tracking with a small companion, goals, XP and levels. | Python, Tkinter |
 | [AroundMe](https://github.com/Sharon-py/AroundMe) | Python project around location-based exploration. | Python |
 | [Scala Project](https://github.com/Sharon-py/scala-project) | Academic / technical project using Scala. | Scala |
+| [Les Huit Lumières de Cécile](https://github.com/Sharon-py/les-huit-lumieres-de-cecile) | Personal narrative adventure mini-game created with Godot as a learning project and a gift for a friend. | Godot, GDScript |
+| [Aqua](https://github.com/Sharon-py/Aqua) | Cute pixel-art desktop hydration reminder that gamifies water intake tracking with a small companion, goals, XP and levels. | Python, Tkinter |
+
 ---
 
 ## 🎮 Current quests
